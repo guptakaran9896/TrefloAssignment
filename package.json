@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot-of-hacktoberfest-2021",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon --inspect index.js "
+  },
+  "dependencies": {
+    "discord-image-generation": "^1.4.15",
+    "discord.js": "^13.12.0",
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.7.5",
+    "mongoose-timestamp": "^0.6.0",
+    "nodemon": "^2.0.20",
+    "something-random-on-discord": "^3.4.4",
+    "underscore": "^1.13.6",
+    "undici": "^5.13.0"
+  }
+}
